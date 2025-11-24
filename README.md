@@ -48,7 +48,7 @@ Un sistema híbrido que combine:
 
 #### **Curiosidad Creativa**
 ¿Cómo representar visualmente la lógica del algoritmo?  
-➡️ **Solución:** mediante una **arquitectura de decisiones representada en Minecraft**.
+**Solución:** mediante una **arquitectura de decisiones representada en Minecraft**.
 
 ---
 
