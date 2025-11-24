@@ -52,3 +52,4 @@ function loadRestaurantDetails() {
 if (window.location.pathname.includes("restaurant.html")) {
     window.onload = loadRestaurantDetails;
 }
+
