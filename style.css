@@ -1,0 +1,62 @@
+/* ====== ESTILO GENERAL ====== */
+body {
+    margin: 0;
+    font-family: 'Poppins', Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+/* ====== PÁGINA DE DETALLES ====== */
+.resto-body {
+    background: #f4f4f4;
+}
+
+.resto-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.resto-img {
+    width: 100%;
+    max-height: 320px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.resto-title {
+    text-align: center;
+    font-size: 28px;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.resto-box {
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.resto-box ul {
+    padding-left: 20px;
+}
+
+.resto-btn {
+    display: block;
+    width: 180px;
+    margin: 20px auto;
+    background: #333;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.resto-btn:hover {
+    background: #000;
+}
