@@ -5,15 +5,18 @@
 - Carlos Perez Garcia
 - Christian Jesus Pacheco Robles
 - Keylie Gonzales Soberanis
+---
 
+# LINK DRIVE [Haz clic aquí para abrir el enlace](https://drive.google.com/drive/folders/1ilXEsTRQAQpdtpobILkYu3rhf5t9ZAXk?usp=sharing)
+
+---
 
 # 📘 FoodPath AI  
 ## Documentación Técnica y Metodológica  
 ### Entregable 1 – Proyecto NEXO
 
 ---
-#LINK DRIVE [Haz clic aquí para abrir el enlace](AQUI_TU_LINK)
----
+
 ## 📑 Tabla de Contenidos
 1. [Contexto y Motivación](#1-contexto-y-motivación)  
 2. [Antecedentes e Investigación](#2-antecedentes-e-investigación)  
