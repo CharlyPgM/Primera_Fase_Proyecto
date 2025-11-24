@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 Tabla de Contenidos
+##  Tabla de Contenidos
 1. [Contexto y Motivación](#1-contexto-y-motivación)  
 2. [Antecedentes e Investigación](#2-antecedentes-e-investigación)  
 3. [Propuesta y Objetivos](#3-propuesta-y-objetivos)  
@@ -211,5 +211,5 @@ Visualización confirma que la **representación 3D reduce el ruido cognitivo**.
 
 ---
 
-## 📌 Autoría
+##  Autoría
 Proyecto creado como parte del **Programa NEXO**.
