@@ -214,5 +214,5 @@ Proyecto creado como parte del **Programa NEXO**.
 
 ---
 ## 8. Links
-# LINK DRIVE [Haz clic aquí para abrir el enlace](https://drive.google.com/drive/folders/1ilXEsTRQAQpdtpobILkYu3rhf5t9ZAXk?usp=sharing)
-# LINK DRIVE [Haz clic aquí para abrir el enlace](https://www.notion.so/Proyecto-QROCKEAT-2b5d76a335dc800794b1fc456b36cfe3)
+# DRIVE [Haz clic aquí para abrir el enlace](https://drive.google.com/drive/folders/1ilXEsTRQAQpdtpobILkYu3rhf5t9ZAXk?usp=sharing)
+# NOTION [Haz clic aquí para abrir el enlace](https://www.notion.so/Proyecto-QROCKEAT-2b5d76a335dc800794b1fc456b36cfe3)
