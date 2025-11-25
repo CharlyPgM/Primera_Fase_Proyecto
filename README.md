@@ -5,13 +5,10 @@
 - Carlos Perez Garcia
 - Christian Jesus Pacheco Robles
 - Keylie Gonzales Soberanis
----
-
-# LINK DRIVE [Haz clic aquí para abrir el enlace](https://drive.google.com/drive/folders/1ilXEsTRQAQpdtpobILkYu3rhf5t9ZAXk?usp=sharing)
 
 ---
 
-# 📘 FoodPath AI  
+#  FoodPath AI  
 ## Documentación Técnica y Metodológica  
 ### Entregable 1 – Proyecto NEXO
 
@@ -24,7 +21,8 @@
 4. [Metodología](#4-metodología)  
 5. [Proceso de Desarrollo](#5-proceso-de-desarrollo)  
 6. [Resultados y Análisis](#6-resultados-y-análisis)  
-7. [Reflexión Crítica](#7-reflexión-crítica)  
+7. [Reflexión Crítica](#7-reflexión-crítica)
+8. [LINKS](#8Links-drive-y-notion)
 
 ---
 
@@ -213,3 +211,8 @@ Visualización confirma que la **representación 3D reduce el ruido cognitivo**.
 
 ##  Autoría
 Proyecto creado como parte del **Programa NEXO**.
+
+---
+## 8. Links
+# LINK DRIVE [Haz clic aquí para abrir el enlace](https://drive.google.com/drive/folders/1ilXEsTRQAQpdtpobILkYu3rhf5t9ZAXk?usp=sharing)
+# LINK DRIVE [Haz clic aquí para abrir el enlace](https://www.notion.so/Proyecto-QROCKEAT-2b5d76a335dc800794b1fc456b36cfe3)
