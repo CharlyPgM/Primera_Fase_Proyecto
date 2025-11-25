@@ -22,7 +22,7 @@
 5. [Proceso de Desarrollo](#5-proceso-de-desarrollo)  
 6. [Resultados y Análisis](#6-resultados-y-análisis)  
 7. [Reflexión Crítica](#7-reflexión-crítica)
-8. [LINKS](#8Links-drive-y-notion)
+8. [LINKS](#8-Links)
 
 ---
 
